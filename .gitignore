@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+# raw Kaggle data (download from the competition page)
+data/train.csv
+data/test.csv
+data/store.csv
+# personal / unrelated files
+INTERVIEW_PREP_HINGLISH.md
+To
+longest_balanced_subarray.py
